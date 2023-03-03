@@ -7,7 +7,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahmanshaaban74/)
 [![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)](https://drive.google.com/file/d/1ZKm3GxI9lly-w28TwFVURONmXPwvDXwC/view?usp=sharing)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanshaaban&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanshaaban" /> </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
